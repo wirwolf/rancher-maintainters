@@ -1,6 +1,7 @@
 # Rancher team ( information from open source )
 ### Backend 
 https://github.com/cmurphy - software engineer
+https://github.com/rmweir - software engineer
 
 ### QA team
 
